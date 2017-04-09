@@ -1,0 +1,26 @@
+=====================================
+Smoothcraft_v.1.10.0 How to install tutorial
+=====================================
+
+Step 1:
+‾‾‾‾‾‾‾‾‾‾
+Download the .zip file of the Resource pack from mediafire
+from a link that you have found.
+
+Step 2:
+‾‾‾‾‾‾‾‾‾‾
+Once Downloaded, you do not need to "un zip" the
+File like previous downloads, so put the .zip file
+inside you resource pack foler located at
+C:\Users\User\AppData\Roaming\.minecraft\resourcepacks
+
+
+Step 3:
+‾‾‾‾‾‾‾‾‾‾
+Once in the folder start up your launcher and start to play
+Minecraft, then go to the resource pack button and select
+the pack to play.
+=====================================
+         <Any Issues please try and contact me>
+		 
+		 Email: mcsmoothcraft@gmail.com

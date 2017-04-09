@@ -1,0 +1,11 @@
+=========================================================
+Smoothcraft_v.1.8.0 How to use a skin from The skin Pack?
+=========================================================
+
+1: Copy the skin you want
+2: Paste the skin in {assets > minecraft > textures > entitie}
+3: Rename the pasted image to the template said on the image pasted
+4: Launch Minecraft and apply the resource pack
+5: See the default skin be that one skin.
+
+You can Also use it al your own, just simply upload it to your account on minecraft.net

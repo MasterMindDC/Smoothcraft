@@ -1,0 +1,12 @@
+-------------------------------------
+Smoothcraft 2015
+-------------------------------------
+
+Is your connected textures and or alternate textures not working?
+Well, there is only one thing needing to be done. Turning alternate
+texture on will only allow the default texture that are alternate,
+alternate. MCPatcher will auto matically change it, so there should
+be no prblem, but if there is. You may need to re-install MCPatcher
+to select the right things to get it to work. Optifine how ever, you
+can toggle it on/off ingame, by finding the Connected textures tab.
+Turning this option to fast will make it work.
